@@ -1,0 +1,32 @@
+[
+  {
+    "Action": "Artist added: Cem Karaca",
+    "Timestamp": "2025-04-26T01:29:31.2700771+02:00",
+    "Date": "0001-01-01T00:00:00"
+  },
+  {
+    "Action": "Album added: Hayk\u0131r\u0131\u015F by Cem Karaca",
+    "Timestamp": "2025-04-26T01:29:52.3330956+02:00",
+    "Date": "0001-01-01T00:00:00"
+  },
+  {
+    "Action": "Song added: \u00C7\u00F6kertme from Hayk\u0131r\u0131\u015F",
+    "Timestamp": "2025-04-26T01:30:08.6678457+02:00",
+    "Date": "0001-01-01T00:00:00"
+  },
+  {
+    "Action": "Artist added: Bar\u0131\u015F Akarsu",
+    "Timestamp": "0001-01-01T00:00:00",
+    "Date": "0001-01-01T00:00:00"
+  },
+  {
+    "Action": "Artist added: CarryLeMore",
+    "Timestamp": null,
+    "Date": "2025-04-26T02:46:39.8708073+02:00"
+  },
+  {
+    "Action": "Artist deleted: CarryLeMore",
+    "Timestamp": null,
+    "Date": "0001-01-01T00:00:00"
+  }
+]
